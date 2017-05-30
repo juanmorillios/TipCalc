@@ -330,6 +330,7 @@
 				87191C771EDDCA6500704AB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
