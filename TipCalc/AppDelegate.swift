@@ -15,7 +15,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-    // Override point for customization after application launch.
+  
+    let defaults = UserDefaults()
+    
+    if (!defaults.bool(forKey: "saveValueSettings")) {
+    
+      let dictionary: Dictionary = ["showNotification": true, "name": "Invitad@", "saveValueSettings": false] as [String: Any]
+    
+      //Save informations by default of aplicatión
+      defaults.register(defaults: dictionary)
+      
+    }
+    
+    
+    
     return true
   }
 
