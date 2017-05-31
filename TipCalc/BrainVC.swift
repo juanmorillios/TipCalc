@@ -26,7 +26,7 @@ class BrainVC: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     
-    self.userLabel.text = "Welcome \(defaults.string(forKey: "name")!) hope enjoy"
+    self.userLabel.text = "Welcome again \(defaults.string(forKey: "name")!)"
     self.valueOfSwitch = defaults.bool(forKey: "showNotification")
     
   }
