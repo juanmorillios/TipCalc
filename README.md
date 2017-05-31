@@ -18,19 +18,12 @@ The following **optional** features are implemented:
 * [ ] UI Off-On to enable notificatión
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video TipCal' 
 
-Here's a walkthrough of implemented user stories:
+Here's a TipCal of implemented user stories:
 
-<<<<<<< HEAD
+
 ![Imgur](http://i.imgur.com/KqmyiGK.gif)
-=======
-[img]http://i.imgur.com/KqmyiGK.gif[/img]
->>>>>>> 887aca4301014d905d14d8aa2400d7e76b5e17f3
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
