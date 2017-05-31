@@ -22,8 +22,10 @@ The following **optional** features are implemented:
 
 Here's a TipCal of implemented user stories:
 
+![Imgur](http://i.imgur.com/dI5s04y.gifv)
+![Imgur](http://i.imgur.com/4ZvyaPq.gif)
+![Imgur](http://i.imgur.com/4ZvyaPq.gif)
 
-![Imgur](http://i.imgur.com/KqmyiGK.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
