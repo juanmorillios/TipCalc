@@ -19,9 +19,9 @@ The following **optional** features are implemented:
 * [ ] UI-Add app icon and launch image
 
 
-#Make sure you completed the following checklist:
+#M ake sure you completed the following checklist:
 
-##Check List Done
+## Check List Done
 
 Did you push your working code to GitHub? 
 YES, DONE
