@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 * [ ] UI-Add app icon and launch image
 
 
-#M ake sure you completed the following checklist:
+# Make sure you completed the following checklist:
 
 ## Check List Done
 
