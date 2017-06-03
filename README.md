@@ -23,15 +23,15 @@ The following **optional** features are implemented:
 
 ## Check List Done
 
-Did you push your working code to GitHub? 
+* [ ] Did you push your working code to GitHub? 
 YES, DONE
-Do you have an updated README.md based on the template we provided?
-YES, DONE
-
-Did you submit a valid GIF or video walkthrough?
+* [ ] Do you have an updated README.md based on the template we provided?
 YES, DONE
 
-Did you fill out a good estimate of the number of hours you spent working on the project?
+* [ ] Did you submit a valid GIF or video walkthrough?
+YES, DONE
+
+* [ ] Did you fill out a good estimate of the number of hours you spent working on the project?
 YES, DONE
 
 ## Video TipCal' 
