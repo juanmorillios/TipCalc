@@ -18,6 +18,19 @@ The following **optional** features are implemented:
 * [ ] The keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 * [ ] UI-Add app icon and launch image
 
+Make sure you completed the following checklist:
+
+Did you push your working code to GitHub? 
+YES, DONE
+Do you have an updated README.md based on the template we provided?
+YES, DONE
+
+Did you submit a valid GIF or video walkthrough?
+YES, DONE
+
+Did you fill out a good estimate of the number of hours you spent working on the project?
+YES, DONE
+
 ## Video TipCal' 
 
 Here's a TipCal of implemented user stories:
